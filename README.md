@@ -2,7 +2,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://portfolio-322.web.app)
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
 <h3 align="center">A passionate frontend developer from Karachi, Pakistan</h3>
-<img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" alt="gif">
+<center><img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" alt="gif"></center>
 - 👨‍💻 All of my projects are available at (https://portfolio-322.web.app/)
 
 - 📫 How to reach me **mabdullah2037@gmail.com**
