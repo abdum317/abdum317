@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
 <h3 align="center">A passionate frontend developer from Karachi, Pakistan</h3>
 <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" alt="gif">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdum317" alt="abdum317" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://portfolio-322.web.app/](https://portfolio-322.web.app/)
 
 - 📫 How to reach me **mabdullah2037@gmail.com**
